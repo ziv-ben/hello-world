@@ -1,0 +1,21 @@
+body {background : green ;
+      color : red ;
+      }
+ a {color : gray;
+ 	text-decoration:none;}
+
+
+ 
+
+
+ a:hover {color : black;
+            background : white;}
+
+  h1 {  font-family: monospace;
+  font-size: 72px ; }
+
+  @media screen and ( min-width 600px ) {
+
+  	body background-color : blue ;
+  	
+  }
